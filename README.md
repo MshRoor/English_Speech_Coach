@@ -32,7 +32,7 @@ No local LLM needed for users.
 
 ## How to Run
 
-1. Open the app: [Speech Coach on Hugging Face](https://huggingface.co/spaces/Mashroor14/Speech-Bot)
+1. Open the app: [Speech Coach on Hugging Face](https://huggingface.co/spaces/Mashroor14/Speech-Coach)
 2. Click the **microphone (🎙️)** icon.
 3. Allow your browser to access the microphone.
 4. Press **Record**, then speak in English (longer clips take longer to process).
