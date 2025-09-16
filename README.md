@@ -43,4 +43,4 @@ No local LLM needed for users.
 ## Notes
 
 * For faster processing, close or minimize other background apps while using the UI.
-* This is an early prototype; UI, voice quality, and overall user experience will be improved in future updates.
+* This is an **early** prototype; speed, UI, voice quality, and overall user experience will be improved in future updates.
