@@ -13,7 +13,7 @@ license: apache-2.0
 
 # Speech Coach
 
-Record a short clip in the browser → **transcribe** with Faster-Whisper → get **LLM feedback** via OpenRouter → hear a **Piper TTS** reply.  
+Record a short clip in the browser -> **transcribe** with Faster-Whisper -> get **LLM feedback** via OpenRouter -> hear a **Piper TTS** reply.  
 No local LLM needed for users.
 
 ## Features
@@ -25,10 +25,10 @@ No local LLM needed for users.
 - Manual debug buttons (Play, Transcribe, Coach, Speak)
 
 ## Project Structure
-├─ app.py # Gradio app (this repo’s main file)  
-├─ requirements.txt  
-├─ packages.txt # system deps for audio (Spaces)  
-└─ models/ # Piper voice files (.onnx + .json)  
+─ app.py # Gradio app (this repo’s main file)  
+─ requirements.txt  
+─ packages.txt # system deps for audio (Spaces)  
+─ models/ # Piper voice files (.onnx + .json)  
 
 ## How to Run
 
